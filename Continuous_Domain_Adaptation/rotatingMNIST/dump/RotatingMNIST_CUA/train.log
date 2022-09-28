@@ -1,0 +1,190 @@
+[Train][0] Loss: E_pred 0.426
+[Train][0] Acc: source 0.876 (6600.0/7531) target 0.284 (14895.0/52469)
+[Train][1] Loss: E_pred 0.172
+[Train][1] Acc: source 0.948 (7069.0/7454) target 0.346 (18166.0/52546)
+[Train][2] Loss: E_pred 0.130
+[Train][2] Acc: source 0.959 (7290.0/7598) target 0.364 (19103.0/52402)
+[Train][3] Loss: E_pred 0.286
+[Train][3] Acc: source 0.915 (6962.0/7609) target 0.394 (20669.0/52391)
+[Train][4] Loss: E_pred 0.116
+[Train][4] Acc: source 0.966 (7141.0/7395) target 0.413 (21726.0/52605)
+[Train][5] Loss: E_pred 0.116
+[Train][5] Acc: source 0.964 (7240.0/7513) target 0.410 (21520.0/52487)
+[Train][6] Loss: E_pred 0.097
+[Train][6] Acc: source 0.968 (7282.0/7519) target 0.398 (20849.0/52481)
+[Train][7] Loss: E_pred 0.095
+[Train][7] Acc: source 0.970 (7085.0/7303) target 0.386 (20477.0/52697)
+[Train][8] Loss: E_pred 0.089
+[Train][8] Acc: source 0.972 (7324.0/7536) target 0.401 (21078.0/52464)
+[Train][9] Loss: E_pred 0.094
+[Train][9] Acc: source 0.970 (7204.0/7430) target 0.397 (20846.0/52570)
+
+Eval MNIST: [0.974 0.695 0.165 0.26  0.368 0.338 0.248 0.775] src: 0.974 tgt:0.407
+[Train][0] Loss: D 1.314 E_replay 0.201 E_gan 0.760
+[Train][0] Acc: source 0.942 (56528.0/60000) target 0.124 (52227.0/60000)
+[Train][1] Loss: D 1.309 E_replay 0.148 E_gan 0.782
+[Train][1] Acc: source 0.955 (57289.0/60000) target 0.131 (55064.0/60000)
+[Train][2] Loss: D 1.309 E_replay 0.181 E_gan 0.787
+[Train][2] Acc: source 0.944 (56661.0/60000) target 0.129 (54222.0/60000)
+[Train][3] Loss: D 1.321 E_replay 0.196 E_gan 0.781
+[Train][3] Acc: source 0.940 (56417.0/60000) target 0.128 (53959.0/60000)
+[Train][4] Loss: D 1.310 E_replay 0.156 E_gan 0.798
+[Train][4] Acc: source 0.948 (56909.0/60000) target 0.131 (54893.0/60000)
+[Train][5] Loss: D 1.314 E_replay 0.202 E_gan 0.792
+[Train][5] Acc: source 0.935 (56123.0/60000) target 0.126 (52808.0/60000)
+[Train][6] Loss: D 1.327 E_replay 0.157 E_gan 0.779
+[Train][6] Acc: source 0.950 (57011.0/60000) target 0.132 (55440.0/60000)
+[Train][7] Loss: D 1.320 E_replay 0.133 E_gan 0.789
+[Train][7] Acc: source 0.957 (57413.0/60000) target 0.133 (55780.0/60000)
+[Train][8] Loss: D 1.304 E_replay 0.133 E_gan 0.804
+[Train][8] Acc: source 0.955 (57320.0/60000) target 0.131 (55043.0/60000)
+[Train][9] Loss: D 1.331 E_replay 0.110 E_gan 0.772
+[Train][9] Acc: source 0.963 (57764.0/60000) target 0.131 (55063.0/60000)
+
+Eval MNIST: [0.968 0.939 0.688 0.376 0.411 0.394 0.359 0.671] src: 0.968 tgt:0.548
+
+Eval MNIST: [0.967 0.942 0.692 0.39  0.408 0.399 0.352 0.67 ] src: 0.967 tgt:0.55
+[Train][0] Loss: D 1.248 E_replay 0.168 E_gan 0.837
+[Train][0] Acc: source 0.914 (54867.0/60000) target 0.090 (37752.0/60000)
+[Train][1] Loss: D 1.268 E_replay 0.095 E_gan 0.842
+[Train][1] Acc: source 0.940 (56384.0/60000) target 0.097 (40774.0/60000)
+[Train][2] Loss: D 1.282 E_replay 0.082 E_gan 0.828
+[Train][2] Acc: source 0.943 (56553.0/60000) target 0.099 (41504.0/60000)
+[Train][3] Loss: D 1.283 E_replay 0.080 E_gan 0.827
+[Train][3] Acc: source 0.946 (56773.0/60000) target 0.101 (42565.0/60000)
+[Train][4] Loss: D 1.284 E_replay 0.069 E_gan 0.820
+[Train][4] Acc: source 0.951 (57036.0/60000) target 0.102 (42912.0/60000)
+[Train][5] Loss: D 1.300 E_replay 0.068 E_gan 0.811
+[Train][5] Acc: source 0.951 (57072.0/60000) target 0.102 (43041.0/60000)
+[Train][6] Loss: D 1.322 E_replay 0.067 E_gan 0.790
+[Train][6] Acc: source 0.955 (57277.0/60000) target 0.104 (43480.0/60000)
+[Train][7] Loss: D 1.326 E_replay 0.062 E_gan 0.782
+[Train][7] Acc: source 0.955 (57289.0/60000) target 0.105 (43899.0/60000)
+[Train][8] Loss: D 1.328 E_replay 0.055 E_gan 0.778
+[Train][8] Acc: source 0.960 (57572.0/60000) target 0.106 (44571.0/60000)
+[Train][9] Loss: D 1.324 E_replay 0.053 E_gan 0.784
+[Train][9] Acc: source 0.959 (57562.0/60000) target 0.107 (44786.0/60000)
+
+Eval MNIST: [0.965 0.871 0.727 0.476 0.392 0.385 0.377 0.695] src: 0.965 tgt:0.56
+
+Eval MNIST: [0.963 0.872 0.735 0.494 0.391 0.373 0.367 0.7  ] src: 0.963 tgt:0.562
+[Train][0] Loss: D 1.201 E_replay 0.093 E_gan 0.878
+[Train][0] Acc: source 0.923 (55387.0/60000) target 0.062 (26216.0/60000)
+[Train][1] Loss: D 1.279 E_replay 0.078 E_gan 0.819
+[Train][1] Acc: source 0.927 (55637.0/60000) target 0.063 (26474.0/60000)
+[Train][2] Loss: D 1.282 E_replay 0.065 E_gan 0.809
+[Train][2] Acc: source 0.936 (56167.0/60000) target 0.062 (25957.0/60000)
+[Train][3] Loss: D 1.305 E_replay 0.057 E_gan 0.792
+[Train][3] Acc: source 0.940 (56405.0/60000) target 0.061 (25504.0/60000)
+[Train][4] Loss: D 1.316 E_replay 0.056 E_gan 0.784
+[Train][4] Acc: source 0.942 (56548.0/60000) target 0.060 (25297.0/60000)
+[Train][5] Loss: D 1.309 E_replay 0.054 E_gan 0.789
+[Train][5] Acc: source 0.943 (56594.0/60000) target 0.060 (25145.0/60000)
+[Train][6] Loss: D 1.320 E_replay 0.050 E_gan 0.784
+[Train][6] Acc: source 0.944 (56664.0/60000) target 0.202 (25044.0/60000)
+[Train][7] Loss: D 1.327 E_replay 0.049 E_gan 0.776
+[Train][7] Acc: source 0.947 (56823.0/60000) target 0.060 (25013.0/60000)
+[Train][8] Loss: D 1.330 E_replay 0.048 E_gan 0.773
+[Train][8] Acc: source 0.948 (56873.0/60000) target 0.060 (25010.0/60000)
+[Train][9] Loss: D 1.333 E_replay 0.046 E_gan 0.774
+[Train][9] Acc: source 0.947 (56806.0/60000) target 0.060 (25125.0/60000)
+
+Eval MNIST: [0.957 0.783 0.476 0.425 0.421 0.399 0.31  0.62 ] src: 0.957 tgt:0.49
+
+Eval MNIST: [0.959 0.784 0.469 0.427 0.426 0.404 0.303 0.627] src: 0.959 tgt:0.491
+[Train][0] Loss: D 1.260 E_replay 0.094 E_gan 0.830
+[Train][0] Acc: source 0.888 (53278.0/60000) target 0.057 (23849.0/60000)
+[Train][1] Loss: D 1.328 E_replay 0.074 E_gan 0.776
+[Train][1] Acc: source 0.899 (53942.0/60000) target 0.063 (26413.0/60000)
+[Train][2] Loss: D 1.325 E_replay 0.066 E_gan 0.777
+[Train][2] Acc: source 0.917 (55040.0/60000) target 0.068 (28580.0/60000)
+[Train][3] Loss: D 1.326 E_replay 0.059 E_gan 0.779
+[Train][3] Acc: source 0.920 (55218.0/60000) target 0.069 (28840.0/60000)
+[Train][4] Loss: D 1.323 E_replay 0.065 E_gan 0.780
+[Train][4] Acc: source 0.917 (55042.0/60000) target 0.071 (29876.0/60000)
+[Train][5] Loss: D 1.296 E_replay 0.079 E_gan 0.812
+[Train][5] Acc: source 0.906 (54365.0/60000) target 0.065 (27379.0/60000)
+[Train][6] Loss: D 1.315 E_replay 0.081 E_gan 0.798
+[Train][6] Acc: source 0.900 (54010.0/60000) target 0.061 (25490.0/60000)
+[Train][7] Loss: D 1.332 E_replay 0.068 E_gan 0.770
+[Train][7] Acc: source 0.910 (54589.0/60000) target 0.063 (26507.0/60000)
+[Train][8] Loss: D 1.338 E_replay 0.072 E_gan 0.775
+[Train][8] Acc: source 0.907 (54437.0/60000) target 0.059 (24919.0/60000)
+[Train][9] Loss: D 1.323 E_replay 0.068 E_gan 0.774
+[Train][9] Acc: source 0.908 (54483.0/60000) target 0.057 (24028.0/60000)
+
+Eval MNIST: [0.909 0.69  0.456 0.38  0.39  0.315 0.269 0.545] src: 0.909 tgt:0.435
+
+Eval MNIST: [0.904 0.695 0.453 0.378 0.399 0.308 0.265 0.567] src: 0.904 tgt:0.438
+[Train][0] Loss: D 1.240 E_replay 0.095 E_gan 0.859
+[Train][0] Acc: source 0.889 (53349.0/60000) target 0.043 (18060.0/60000)
+[Train][1] Loss: D 1.295 E_replay 0.064 E_gan 0.804
+[Train][1] Acc: source 0.909 (54538.0/60000) target 0.047 (19725.0/60000)
+[Train][2] Loss: D 1.315 E_replay 0.056 E_gan 0.787
+[Train][2] Acc: source 0.916 (54987.0/60000) target 0.048 (20012.0/60000)
+[Train][3] Loss: D 1.309 E_replay 0.053 E_gan 0.788
+[Train][3] Acc: source 0.925 (55520.0/60000) target 0.048 (20260.0/60000)
+[Train][4] Loss: D 1.323 E_replay 0.049 E_gan 0.776
+[Train][4] Acc: source 0.930 (55791.0/60000) target 0.049 (20561.0/60000)
+[Train][5] Loss: D 1.311 E_replay 0.046 E_gan 0.781
+[Train][5] Acc: source 0.935 (56084.0/60000) target 0.049 (20405.0/60000)
+[Train][6] Loss: D 1.313 E_replay 0.046 E_gan 0.780
+[Train][6] Acc: source 0.936 (56133.0/60000) target 0.050 (20830.0/60000)
+[Train][7] Loss: D 1.315 E_replay 0.042 E_gan 0.778
+[Train][7] Acc: source 0.937 (56202.0/60000) target 0.049 (20710.0/60000)
+[Train][8] Loss: D 1.314 E_replay 0.041 E_gan 0.779
+[Train][8] Acc: source 0.936 (56178.0/60000) target 0.049 (20780.0/60000)
+[Train][9] Loss: D 1.316 E_replay 0.041 E_gan 0.778
+[Train][9] Acc: source 0.938 (56277.0/60000) target 0.050 (21104.0/60000)
+
+Eval MNIST: [0.943 0.756 0.474 0.387 0.439 0.352 0.301 0.585] src: 0.943 tgt:0.47
+
+Eval MNIST: [0.949 0.753 0.477 0.387 0.441 0.351 0.299 0.592] src: 0.949 tgt:0.471
+[Train][0] Loss: D 1.192 E_replay 0.066 E_gan 0.875
+[Train][0] Acc: source 0.918 (55081.0/60000) target 0.042 (17825.0/60000)
+[Train][1] Loss: D 1.285 E_replay 0.056 E_gan 0.812
+[Train][1] Acc: source 0.917 (55031.0/60000) target 0.046 (19202.0/60000)
+[Train][2] Loss: D 1.321 E_replay 0.054 E_gan 0.789
+[Train][2] Acc: source 0.917 (55046.0/60000) target 0.047 (19533.0/60000)
+[Train][3] Loss: D 1.321 E_replay 0.044 E_gan 0.783
+[Train][3] Acc: source 0.924 (55470.0/60000) target 0.048 (20248.0/60000)
+[Train][4] Loss: D 1.313 E_replay 0.043 E_gan 0.790
+[Train][4] Acc: source 0.928 (55675.0/60000) target 0.048 (20244.0/60000)
+[Train][5] Loss: D 1.277 E_replay 0.055 E_gan 0.826
+[Train][5] Acc: source 0.920 (55210.0/60000) target 0.049 (20416.0/60000)
+[Train][6] Loss: D 1.261 E_replay 0.049 E_gan 0.827
+[Train][6] Acc: source 0.925 (55480.0/60000) target 0.050 (20873.0/60000)
+[Train][7] Loss: D 1.258 E_replay 0.042 E_gan 0.827
+[Train][7] Acc: source 0.930 (55786.0/60000) target 0.051 (21571.0/60000)
+[Train][8] Loss: D 1.274 E_replay 0.045 E_gan 0.815
+[Train][8] Acc: source 0.929 (55756.0/60000) target 0.052 (21805.0/60000)
+[Train][9] Loss: D 1.283 E_replay 0.045 E_gan 0.806
+[Train][9] Acc: source 0.929 (55723.0/60000) target 0.052 (21835.0/60000)
+
+Eval MNIST: [0.941 0.783 0.515 0.354 0.381 0.385 0.375 0.576] src: 0.941 tgt:0.481
+
+Eval MNIST: [0.943 0.775 0.513 0.352 0.374 0.389 0.37  0.583] src: 0.943 tgt:0.479
+[Train][0] Loss: D 1.238 E_replay 0.075 E_gan 0.864
+[Train][0] Acc: source 0.911 (54643.0/60000) target 0.109 (45633.0/60000)
+[Train][1] Loss: D 1.352 E_replay 0.049 E_gan 0.762
+[Train][1] Acc: source 0.927 (55643.0/60000) target 0.125 (52471.0/60000)
+[Train][2] Loss: D 1.339 E_replay 0.039 E_gan 0.761
+[Train][2] Acc: source 0.933 (55971.0/60000) target 0.128 (53688.0/60000)
+[Train][3] Loss: D 1.341 E_replay 0.039 E_gan 0.763
+[Train][3] Acc: source 0.930 (55822.0/60000) target 0.129 (53984.0/60000)
+[Train][4] Loss: D 1.360 E_replay 0.036 E_gan 0.748
+[Train][4] Acc: source 0.938 (56285.0/60000) target 0.130 (54700.0/60000)
+[Train][5] Loss: D 1.362 E_replay 0.031 E_gan 0.741
+[Train][5] Acc: source 0.940 (56375.0/60000) target 0.132 (55262.0/60000)
+[Train][6] Loss: D 1.376 E_replay 0.033 E_gan 0.736
+[Train][6] Acc: source 0.940 (56417.0/60000) target 0.131 (55128.0/60000)
+[Train][7] Loss: D 1.363 E_replay 0.031 E_gan 0.741
+[Train][7] Acc: source 0.945 (56696.0/60000) target 0.132 (55527.0/60000)
+[Train][8] Loss: D 1.364 E_replay 0.026 E_gan 0.740
+[Train][8] Acc: source 0.944 (56620.0/60000) target 0.132 (55338.0/60000)
+[Train][9] Loss: D 1.364 E_replay 0.029 E_gan 0.740
+[Train][9] Acc: source 0.944 (56649.0/60000) target 0.132 (55324.0/60000)
+
+Eval MNIST: [0.953 0.765 0.484 0.388 0.427 0.428 0.638 0.936] src: 0.953 tgt:0.581
+
+Eval MNIST: [0.954 0.76  0.487 0.387 0.427 0.427 0.631 0.931] src: 0.954 tgt:0.578
