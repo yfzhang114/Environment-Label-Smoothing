@@ -21,7 +21,14 @@ A fundamental challenge for machine learning models is how to generalize learned
 </div>
 
 ### Dependencies
-Dependencies of different settings are listed in each subfolder.
+Dependencies of different settings are listed in each subfolder and are from different existing GitHub projects. Compared to all original projects, we add additional hyper-parameters such as 
+```
+parser.add_argument('--label_smooth', action='store_true',
+        help='domain label smmoth')
+parser.add_argument('--eps', type=float, default=0.1,
+         help='eps for domain label smmoth')
+```
+You can use the arguments to control whether use environment label smoothing for domain adversarial methods flexibly.
 
 #### Table.2 and Table.4 for Domain adaptation
 ./Domain_Adaptation
