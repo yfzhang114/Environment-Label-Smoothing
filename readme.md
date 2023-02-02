@@ -51,14 +51,13 @@ You can use the arguments to control whether use environment label smoothing for
 ### Citation 
 If you find this repo useful, please consider citing: 
 ```
-@inproceedings{
-anonymous2023free,
-title={Free Lunch for Domain Adversarial Training: Environment Label Smoothing},
-author={Anonymous},
-booktitle={Submitted to The Eleventh International Conference on Learning Representations },
-year={2023},
-url={https://openreview.net/forum?id=GPTjnA57h_3},
-note={under review}
+@misc{zhang2023free,
+    title={Free Lunch for Domain Adversarial Training: Environment Label Smoothing},
+    author={YiFan Zhang and Xue Wang and Jian Liang and Zhang Zhang and Liang Wang and Rong Jin and Tieniu Tan},
+    year={2023},
+    eprint={2302.00194},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
 
