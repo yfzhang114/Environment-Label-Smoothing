@@ -9,7 +9,7 @@ This is an official PyTorch implementation of the paper [Free Lunch for Domain A
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training/domain-adaptation-on-office-home)](https://paperswithcode.com/sota/domain-adaptation-on-office-home?p=free-lunch-for-domain-adversarial-training)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training/domain-adaptation-on-office-31)](https://paperswithcode.com/sota/domain-adaptation-on-office-31?p=free-lunch-for-domain-adversarial-training)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training-1/domain-adaptation-on-office-31)](https://paperswithcode.com/sota/domain-adaptation-on-office-31?p=free-lunch-for-domain-adversarial-training-1)
 
 
 
