@@ -3,13 +3,18 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is an official PyTorch implementation of the paper [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](). 
+This is an official PyTorch implementation of the paper [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194). 
 
-**With a very simple smoothing trick, the method can boost the generalization/adaptation performance of previous adversarial training-based methods by a large margin.**
+:high_brightness:  The repository includes a broad range of tasks, which are *image classification, image retrieval, neural language processing, genomics,graph, and sequential prediction tasks*.
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training/domain-adaptation-on-office-home)](https://paperswithcode.com/sota/domain-adaptation-on-office-home?p=free-lunch-for-domain-adversarial-training)
+<div align=center>
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training-1/domain-adaptation-on-office-31)](https://paperswithcode.com/sota/domain-adaptation-on-office-31?p=free-lunch-for-domain-adversarial-training-1)
+![A summary on evaluation benchmarks.](tasks.png)
+</div>
+
+🔥 **With a very simple smoothing trick, the method can boost the generalization/adaptation performance of previous adversarial training-based methods by a large margin.**
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training/domain-adaptation-on-office-home)](https://paperswithcode.com/sota/domain-adaptation-on-office-home?p=free-lunch-for-domain-adversarial-training) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/free-lunch-for-domain-adversarial-training-1/domain-adaptation-on-office-31)](https://paperswithcode.com/sota/domain-adaptation-on-office-31?p=free-lunch-for-domain-adversarial-training-1)
 
 
 
